@@ -2,7 +2,7 @@
 ============================================================
   Fichero: escenario.c
   Creado: 13-11-2025
-  Ultima Modificacion: dijous, 13 de novembre de 2025, 20:16:32
+  Ultima Modificacion: dissabte, 15 de novembre de 2025, 09:01:52
   oSCAR jIMENEZ pUIG                                       
 ============================================================
 */
@@ -10,6 +10,7 @@
 #include "starwars.h"
 
 void escenario_define() {
+	
 	const int ESP=56;
 	const int DEW=11;
 	const int DEH=6;

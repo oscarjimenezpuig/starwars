@@ -2,7 +2,7 @@
 ============================================================
   Fichero: sprite.c
   Creado: 06-11-2025
-  Ultima Modificacion: dissabte, 8 de novembre de 2025, 18:48:37
+  Ultima Modificacion: diumenge, 16 de novembre de 2025, 08:04:51
   oSCAR jIMENEZ pUIG                                       
 ============================================================
 */

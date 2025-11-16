@@ -82,6 +82,6 @@ check:
 #MAKEFILE VARIABLE
 
 NAME = starwar
-SCRS = zxou.c sprite.c sprites.c escenario.c starwars.c
+SCRS = zxou.c sprite.c sprites.c movil.c proteccion.c explosion.c disparo.c nave.c enemigo.c starwars.c
 INCLUDES = -lX11
 
